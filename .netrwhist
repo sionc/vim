@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/sionchaudhuri/src/openxc/openxc-python'
+let g:netrw_dirhist_2='/Users/sionchaudhuri/src/openxc/openxc-python/openxc'
+let g:netrw_dirhist_3='/Users/sionchaudhuri/src/openxc/openxc-python/openxc/controllers'
+let g:netrw_dirhist_4='/Users/sionchaudhuri'
+let g:netrw_dirhist_5='/Users/sionchaudhuri/src/learn'
+let g:netrw_dirhist_6='/Users/sionchaudhuri/src/learn/expert_python'
+let g:netrw_dirhist_7='/Users/sionchaudhuri'
+let g:netrw_dirhist_8='/Users/sionchaudhuri/Uber/ozone'
