@@ -48,3 +48,4 @@ match OverLength /\%81v.\+/
 set clipboard=unnamed
 let NERDTreeIgnore = ['\.pyc$']
 execute pathogen#infect()
+autocmd FileType c,cpp,java,php,py autocmd BufWritePre <buffer> :%s/\s\+$//e
